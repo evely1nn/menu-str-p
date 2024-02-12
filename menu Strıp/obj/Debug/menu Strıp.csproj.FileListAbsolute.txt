@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\menu Strıp\menu Strıp\bin\Debug\menu Strıp.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\menu Strıp\menu Strıp\bin\Debug\menu Strıp.exe
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\menu Strıp\menu Strıp\bin\Debug\menu Strıp.pdb
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\menu Strıp\menu Strıp\obj\Debug\menu Strıp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\menu Strıp\menu Strıp\obj\Debug\menu Strıp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\menu Strıp\menu Strıp\obj\Debug\menu_Strıp.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\menu Strıp\menu Strıp\obj\Debug\menu_Strıp.OgrenciEkle.resources
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\menu Strıp\menu Strıp\obj\Debug\menu_Strıp.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\menu Strıp\menu Strıp\obj\Debug\menu Strıp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\menu Strıp\menu Strıp\obj\Debug\menu Strıp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\menu Strıp\menu Strıp\obj\Debug\menu Strıp.exe
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\menu Strıp\menu Strıp\obj\Debug\menu Strıp.pdb
